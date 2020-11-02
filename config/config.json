@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "sink_overflow_app",
+    "password": "password",
+    "database": "sink_overflow_development",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "sink_overflow_app",
+    "password": "password",
+    "database": "sink_overflow_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "sink_overflow_app",
+    "password": "password",
+    "database": "sink_overflow_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
